@@ -1,0 +1,19 @@
+{
+  "name": "add-bank-info",
+  "version": "1.0.0",
+  "description": "add bank info keys in shopify order attributes",
+  "main": "api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "author": "gamingumar",
+  "license": "ISC",
+  "dependencies": {
+    "@urql/core": "^3.1.1",
+    "graphql": "^16.6.0",
+    "node-fetch": "^3.3.0",
+    "urql": "^3.0.3",
+    "yargs": "^17.7.0"
+  }
+}
